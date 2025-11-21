@@ -24,6 +24,7 @@
 
 주요 목표
 - [료칸 체험](https://www.google.com/search?q=Nazuna+Kyoto+Tsubaki+St.)
+- 여우 신사 쪽이 시간 오래걸릴 수 있으니 잘 조절하기
 
 ## 화요일 일정
 
@@ -35,9 +36,14 @@
 - 교토 주요 관광지 가보기
 - - 니시키 시장, 시라카와구/하나미코지도리, 자안탑/기요미즈데라, 교토타워
 - 교토 타워 올라가기?
+- 일정 밀리면 안되니까 시장은 조금 빠르게 돌기
 
 ## 수요일 일정
 
 4시까지 공항 복귀하기 (비행기 6시 출발)
 
 여유있게 교토역 주변에서 놀기 (돈키호테, 골목 먹거리 탐색)
+
+[예상 동선](https://www.google.com/maps/dir/%EC%9D%BC%EB%B3%B8+%E3%80%92604-8214+%EA%B5%90%ED%86%A0%EB%B6%80+Kyoto,+Nakagyo+Ward,+Mukadeyacho,+392+THE+GENERAL+KYOTO+Shijo+Shinmachi+%E5%9B%9B%E6%9D%A1%E6%96%B0%E7%94%BA/%EC%9D%BC%EB%B3%B8+%EA%B5%90%ED%86%A0%EB%B6%80+%EA%B5%90%ED%86%A0%EC%8B%9C+%EB%82%98%EC%B9%B4%EA%B5%90%EA%B5%AC+%E6%9D%B1%E9%AD%9A%E5%B1%8B%E7%94%BA%EB%8B%88%EC%8B%9C%ED%82%A4+%EC%8B%9C%EC%9E%A5/%EC%9D%BC%EB%B3%B8+%EA%B5%90%ED%86%A0%EB%B6%80+%EA%B5%90%ED%86%A0%EC%8B%9C+%EC%8B%9C%EB%AA%A8%EA%B5%90%EA%B5%AC+%EB%8B%88%EC%A1%B0%ED%95%9C%EC%A7%80%ED%82%A4%EC%B4%88+%EC%8B%9C%EC%A1%B0+%EC%97%AD/%EA%B5%90%ED%86%A0%ED%83%80%EC%9B%8C%EB%B9%8C%EB%94%A9/@34.9964298,135.7502766,15z/data=!3m1!5s0x600108afa9039257:0x6500bc26383b8a9d!4m26!4m25!1m5!1m1!1s0x6001097f20569b13:0xaf53b3a9718add94!2m2!1d135.7567722!2d35.0052377!1m5!1m1!1s0x6001089ccd8ccb4f:0xb69ea31001ec6c9c!2m2!1d135.764723!2d35.0050258!1m5!1m1!1s0x600108998706690f:0xb8bea36c702b1320!2m2!1d135.7597178!2d35.0024081!1m5!1m1!1s0x600109a325dedcab:0x1a53afeb36fd9975!2m2!1d135.7594279!2d34.987658!3e2?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D)
+
+2시 반정도에는 교토역에서 출발해야 함
